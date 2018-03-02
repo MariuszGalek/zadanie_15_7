@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #79d279;
+    color: #206020;
+}
+nav {
+    font-size: 30px;
+    margin: 60px;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #206020;
+    transition: 0.3s;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px #206020;
+}
+nav a:hover {
+    background-color: #fff;
+    color: #206020;
+}
+.stopwatch {
+    font-size: 80px;
+    letter-spacing: 6px;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+}
